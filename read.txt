@@ -1,0 +1,5 @@
+> **This project was created purely as a life-quality automation script to simplify the execution process for personal/educational use.**
+> It is **NOT** intended to claim ownership, redistribute, or steal the work, code, or intellectual property of the original Horizon developers.
+> All rights to the original software, assets, and components belong strictly to their respective creators.
+> Have fun!!)
+ >Respect and full credit go to the original creators of Horizon and minecraft-launcher-lib
