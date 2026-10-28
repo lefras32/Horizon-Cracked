@@ -2,7 +2,7 @@
 
 # Horizon Cracked
 
-**Mini launcher for those who dont have license and wanna play right now**
+**Mini launcher for those who dont have online account and wanna play right now**
 
 [![Python Version](https://img.shields.io/badge/python-3.13%2B-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/platform-Windows--x64-informational.svg)]()
