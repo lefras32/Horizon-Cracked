@@ -30,4 +30,6 @@
 ### Installation
 
 * Install zip from releases, unzip and launch launcher.exe with dog icon on it and follow the instructions.
+
 https://github.com/horizon-rust/horizon - - original repository of Horizon dev
+If you want to use this please go to original horizon-rust repo and star it
